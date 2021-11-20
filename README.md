@@ -13,7 +13,8 @@ problems. I look forward to contributing my share to the Company.
 
 🎨EXPERIENCE
 
-2021—Present Machine Learning and Artificial Intelligence Engineer
+- 2021—Present
+Machine Learning and Artificial Intelligence Engineer
 @DATAVAULT, NIGERIA
 • Curating datasets consisting of markets research data taken from different APIs.
 • Building and improving AI models that automate data analysis for market research. 
