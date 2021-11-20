@@ -4,7 +4,6 @@
 - 💞️ I’m looking to work remotely, onsite and intern 
 - 📫 How to reach me....
 
-<!---
 I am a graduate of Physiology, a certified data scientist with specialty in ML & Deep learning and business intelligence with
 2+ year of professional experience (through internships and personal projects) artificial intelligence, developing AI/ML/DL 
 models that can be applied in solving business and healthcare problems. And also, writing production python code, 
