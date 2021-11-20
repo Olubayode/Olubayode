@@ -12,7 +12,6 @@ I seek to join your company to create value in the application of Data Science a
 problems. I look forward to contributing my share to the Company.
 
 🎨EXPERIENCE
-
 - 2021—Present
   Machine Learning and Artificial Intelligence Engineer
   @DATAVAULT, NIGERIA
