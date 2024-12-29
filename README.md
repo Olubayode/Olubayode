@@ -2,7 +2,10 @@
 - 👀 I’m interested in Data Science,machine learning and Deep learning with a specialty in Computer vision 
 - 🌱 I’m currently learning and exploring more about computer vision using different frameworks 
 - 💞️ I’m looking to work remotely, onsite and intern 
-- 📫 How to reach me....
+- 📫 How to reach me Olubayodeeben@gmail.com
+
+- https://public.tableau.com/app/profile/ebenezer.olubayode/vizzes
+- 
 
 I am a graduate of Physiology, a certified data scientist with specialty in ML & Deep learning and business intelligence with
 2+ year of professional experience (through internships and personal projects) artificial intelligence, developing AI/ML/DL 
