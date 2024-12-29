@@ -4,8 +4,8 @@
 - 💞️ I’m looking to work remotely, onsite and intern 
 - 📫 How to reach me Olubayodeeben@gmail.com
 
-- https://public.tableau.com/app/profile/ebenezer.olubayode/vizzes
-- 
+- To see some of my Visualizations on Tabluea click this link: https://public.tableau.com/app/profile/ebenezer.olubayode/vizzes
+
 
 I am a graduate of Physiology, a certified data scientist with specialty in ML & Deep learning and business intelligence with
 2+ year of professional experience (through internships and personal projects) artificial intelligence, developing AI/ML/DL 
