@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Olubayode Ebenezer
-- 👀 I’m interested in Data Science,machine learning and Deep learning with a specialty in Computer vision 
-- 🌱 I’m currently learning and exploring more about computer vision using different frameworks 
+- 👀 I’m interested in Bayesian Analysis, Data Science,machine learning and Deep learning with a specialty in Computer vision 
+- 🌱  Building computer vision using different frameworks 
 - 💞️ I’m looking to work remotely, onsite and intern 
 - 📫 How to reach me Olubayodeeben@gmail.com
 
